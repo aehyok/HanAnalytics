@@ -1,5 +1,5 @@
 name = "han-analytics"
-compatibility_date = "2024-09-21"
+compatibility_date = "2024-10-12"
 pages_build_output_dir = "dist"
 
 [[analytics_engine_datasets]]
